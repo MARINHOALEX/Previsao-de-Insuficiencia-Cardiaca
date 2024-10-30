@@ -10,6 +10,7 @@ Este projeto tem como objetivo desenvolver um modelo preditivo para identificar 
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Catboost
 - Jupyter Notebook
 
 ## Descrição do Projeto
